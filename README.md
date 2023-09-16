@@ -10,8 +10,8 @@
   
 <a class="anchor" id="contact"></a>
 >## Contact Information
-[Carlos Borromeu](https://www.linkedin.com/in/carlosborromeu/detail/recent-activity/posts/) - Linkedin page
+[Carlos Borromeu](https://www.linkedin.com/in/carlosborromeu/detail/recent-activity/posts/) - Linkedin page </br>
 
-[#Github Stats](https://github.com/CBTAS) - Github with stats about projects on platform. <br>
+[#Github Stats](https://github.com/CBTAS) - Github with stats about projects on platform. </br>
 
-[#Github Pages](https://cbtas.github.io) - CBTAS page on Github where the repository is listed. <br>
+[#Github Pages](https://cbtas.github.io) - CBTAS page on Github where the repository is listed. </br>
