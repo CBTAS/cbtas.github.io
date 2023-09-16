@@ -1,4 +1,4 @@
 # cbtas.github.io
 
 ## Repository <br>
-[PCDE-Activity-9.1](https://github.com/CBTAS/PCDE-Activity-9.1/settings/pages)
+[PCDE-Activity-9.1](https://cbtas.github.io/PCDE-Activity-9.1/)
