@@ -7,6 +7,7 @@
 * [Inserir assinaturas PNG em arquivos PDF, diversas folhas](https://cbtas.github.io/signinpdf)
 * [BOOTCAMP LINUX-EXERIENCE-DESAFIO-Infraestructure as a Code](https://cbtas.github.io/DIO-LINUX-EXERIENCE-DESAFIO-1-IaC)
 * [API REST em JAVA - Consutlar cidades Brasil](https://cbtas.github.io/citiesapi)
+* [Activity with Advanced Python: decorators, wrappers and Github](https://cbtas.github.io/MO-PCDE_M9_final_assignment)
   
 <a class="anchor" id="contact"></a>
 >## Contact Information
